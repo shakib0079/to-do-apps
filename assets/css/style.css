@@ -1,0 +1,86 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.main-container{
+    height: 100vh;
+    background-color: #08090A;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.conatiner{
+    max-width: 650px;
+    background-color: #222823;
+    padding: 20px;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h1{
+    font-family: "Poppins", serif;
+    font-size: 24px;
+    color: white;
+}
+
+.ul-lists{
+    min-width: 450px;
+}
+
+
+.list-items{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px 20px;
+    border: 1px solid #03B5AA;
+    border-radius: 5px;
+    margin: 10px 0px;
+    color: white;
+    font-family: "Poppins", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.rmv-btn{
+    border: none;
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #222823;
+}
+
+.icon-img{
+    width: 24px;
+}
+.input-section{
+    margin: 10px;
+    min-width: 450px;
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+}
+
+.input-feild{
+    padding: 10px;
+    border: 1px solid #03B5AA;
+    border-radius: 5px;
+    width: 100%;
+}
+
+.add-btn{
+    border: none;
+    border-radius: 6px;
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #222823;
+}
