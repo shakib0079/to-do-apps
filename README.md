@@ -31,12 +31,7 @@ This is a simple To-Do application developed using Vanilla JavaScript. The proje
    - All UI updates are directly tied to the storage's current state.
 
 ## Project Structure
-├── index.html # The main HTML file 
-├── style.css # Styles for the application 
-├── app.js # JavaScript file containing Add, Remove functionality
-├── UIUpdate.js # JavaScript file containing Display functionality
-├── storage.js # JavaScript file containing storage (Empty Array)
-└── README.md # Project documentation
+```├── index.html # The main HTML file ├── style.css # Styles for the application ├── app.js # JavaScript file containing Add, Remove functionality ├── UIUpdate.js # JavaScript file containing Display functionality ├── storage.js # JavaScript file containing storage (Empty Array) └── README.md # Project documentation```
 
 ## Technologies Used
 
